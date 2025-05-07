@@ -63,5 +63,3 @@ others: ['The', 'the', 'shouts', ', ', '"', '!']
 
 - [Python](https://www.python.org/)
 - [NLTK](https://www.nltk.org/)
-
-## 📝 License
